@@ -8,7 +8,7 @@ public class HelloController {
 
     @GetMapping("/")
     public String helloMessage() {
-        return "Hello, this is my first project!!!";
+        return "Hello, this is my first project!";
     }
 
 }
